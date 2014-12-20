@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.github.ianchesal.launchbar-actions.MergeFinderWindows</string>
+	<key>CFBundleIconFile</key>
+	<string>Iconsmind-Outline-Arrow-Merge.icns</string>
+	<key>CFBundleName</key>
+	<string>Merge Finder Windows</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBSummary</key>
+    <string>Merges all open Finder windows in to one single Finder window with tabs.</string>
+		<key>LBRequirements</key>
+		<string></string>
+		<key>LBResult</key>
+		<string></string>
+		<key>LBAuthor</key>
+		<string>Ian Chesal</string>
+		<key>LBEmail</key>
+		<string>ian.chesal@gmail.com</string>
+		<key>LBWebsite</key>
+		<string>https://github.com/ianchesal/launchbar-actions</string>
+		<key>LBTwitter</key>
+		<string>@ircri</string>
+	</dict>
+</dict>
+</plist>
+
