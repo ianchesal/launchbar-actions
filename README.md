@@ -1,4 +1,7 @@
-launchbar-actions
-=================
+# My LaunchBar Actions
 
-My LaunchBar actions
+LaunchBar 6 got a big update to Actions. They're a little more involved to make now but you get more power and integration with LaunchBar than simple scripts afforded you pre-6.0.
+
+This is a collection of some of my actions.
+
+I like to keep `~/Dropbox/LaunchBar/Actions` as the home for my extensions, and then I symlink that to `~/Library/Application Support/LaunchBar/Actions` on any machine I own. Keeps my actions in sync. And, of course, That folder is just a clone of this repository.
