@@ -1,6 +1,6 @@
 # My LaunchBar Actions
 
-LaunchBar 6 got a big update to Actions. They're a little more involved to make now but you get more power and integration with LaunchBar than simple scripts afforded you pre-6.0.
+[LaunchBar 6 got a big update to Actions](http://www.obdev.com/products/launchbar/extensions.html). They're a little more involved to make now but you get more power and integration with LaunchBar than simple scripts afforded you pre-6.0.
 
 This is a collection of some of my actions.
 
