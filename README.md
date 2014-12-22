@@ -6,4 +6,4 @@ This is a collection of some of my actions.
 
 I like to keep `~/Dropbox/LaunchBar/Actions` as the home for my extensions, and then I symlink that to `~/Library/Application Support/LaunchBar/Actions` on any machine I own. Keeps my actions in sync. And, of course, That folder is just a clone of this repository.
 
-At this point in time my actions are note codesigned. You'll need to tell LaunchBar to allow unsigned actions to use these or sign them yourself with `codesign`.
+At this point in time my actions are not codesigned. You'll need to tell LaunchBar to allow unsigned actions to use these or sign them yourself with `codesign`.
