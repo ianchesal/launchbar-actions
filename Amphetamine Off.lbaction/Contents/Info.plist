@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>Amphetamine.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yourcompany.LaunchBar.action.AmphetamineOff</string>
+	<key>CFBundleName</key>
+	<string>Amphetamine: Off</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBAssociatedApplication</key>
+	<string>com.if.Amphetamine</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Ian Chesal</string>
+		<key>LBEmail</key>
+		<string>ian.chesal@gmail.com</string>
+		<key>LBSummary</key>
+		<string>Turns off any active session for Amphetamine</string>
+		<key>LBTwitter</key>
+		<string>ircri</string>
+		<key>LBWebsiteURL</key>
+		<string>https://github.com/ianchesal/launchbar-actions</string>
+	</dict>
+	<key>LBRequiredApplication</key>
+	<string>com.if.Amphetamine</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>2016 - Ian Chesal</string>
+</dict>
+</plist>
